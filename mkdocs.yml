@@ -1,0 +1,8 @@
+site_name: dsasadsad
+site_description: sadsadsad
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
